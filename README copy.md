@@ -69,18 +69,19 @@ The dataset is provided by Cookie Flea regarding historical data of 5K recipes w
 
 ## Workflow
 
-1- Setting up the objective
+1- Setting up the objective: In this case, extract all the information we can from the given variables to be able to predict the quality of the biscuits
 
-2- Writing down some hypothesis
+2- Writing down some hypothesis: The higher the sugar the better the quality? What about calories? May be the density is more important than what we thought at first... 
 
-3- Explore the data
+3- Explore the data: Just by with a fast look at the data you can see a ton of interesting things, from the temperature of the oven to the time spent in it
 
-4- Cleaning the data
+4- Cleaning the data: Of course , not everything is going to be the way it ought to be, and so this dataset had a lot of things but clarity and clearness are not one of them 
 
-8- ML modeling
+5- ML modeling: After we have fixed all the data, it is time to machine learning! So let's drop some overrelated columns, select some features, analyse the result of our recipe and then choose the best model to fit the data
 
-9- Recommendations
+6- Try and check: Then, we applied the mdoel to the dataset and got some interesting results... may be too interesting by the way, so we could try a few models later and we found out that it was even more interesting than we thought at first
 
+7- Conclusion: We did get results, concrete and useful ones, but may be not accurate enough. Probably this model is not enough trained. However, the reason for that may be the that the data is worse than it could be
 
 <a name="organization"></a>
 
